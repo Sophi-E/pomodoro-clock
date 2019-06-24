@@ -1,21 +1,16 @@
-body{
-  background-color: blue;
+body {
+  background-color: #E44236;
   color: #ccc;
 }
-.container{
+#timer {
+  font-size: 200px;
+  line-height: 1;
+  margin-bottom: 40px;
+}
+#app{
   text-align: center;
-  width: 30%;
 }
-.titles{
-  display:flex;
-  justify-content: space-between;
-}
-.session-block{
-  border: 1px solid #ddd;
-  border-radius: 15px;
-  margin-bottom: 10px;
-  width: 15rem;
-}
-footer{
-  text-align: center;
+.controls{
+  font-size: 100px;
+  margin:40px 0;
 }
